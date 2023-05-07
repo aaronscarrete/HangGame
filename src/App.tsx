@@ -87,7 +87,7 @@ function App() {
         {/* Handle Won */}
         {
           (won) 
-            ? <h2>Ganaste {word}</h2>
+            ? <h2>Felicidades, usted ganó</h2>
             : ''
         }
 
